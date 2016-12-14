@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="154842966079448" >
+
+    <task
+        name="javac"
+        duration="505" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="108" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/home/amatanat/Documents/androidCoursera/smallProjects/RelativeLayout/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="154842966079448" >
+        <artifact
+            location="/home/amatanat/Documents/androidCoursera/smallProjects/RelativeLayout/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
