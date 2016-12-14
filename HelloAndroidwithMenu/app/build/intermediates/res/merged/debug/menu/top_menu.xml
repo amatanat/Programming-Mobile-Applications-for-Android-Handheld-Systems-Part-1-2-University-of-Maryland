@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:title="Help 1" />
+
+    <item
+        android:id="@+id/item2"
+        android:title="Help 2" />
+
+    <item
+        android:id="@+id/item3"
+        android:title="Help 3">
+        <menu>
+            <item
+                android:id="@+id/give_up"
+                android:title="give UP" />
+        </menu>>
+    </item>
+
+</menu>

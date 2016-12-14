@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/res/merged/debug/menu/top_menu.xml",
+        "source": "/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/src/main/res/menu/top_menu.xml"
+    },
+    {
+        "merged": "/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/src/main/res/menu/context_menu.xml"
+    }
+]

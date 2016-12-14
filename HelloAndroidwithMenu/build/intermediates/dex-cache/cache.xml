@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_5d1daca2000c82a63496b2a3478d3d13f76236a6/classes.dex" />
+    </item>
+    <item
+        jar="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_192cd4aa218a9167d934c683cadc5b2a02393bfc/classes.dex" />
+    </item>
+    <item
+        jar="/home/amatanat/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_62208ddb445ae2593aff3b5ec9e0f397672cd885/classes.dex" />
+    </item>
+    <item
+        jar="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_a8b64941891e47060216cb9a31d8780de3f66e86/classes.dex" />
+    </item>
+    <item
+        jar="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9180316bb841197bce068e6a18ced6fb548400c">
+        <dex dex="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9d6fa8024d453fe6f693a801bc943b4726cd65b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_7c9721ac062244cf00aa8124d76a5c79a57b023b/classes.dex" />
+    </item>
+    <item
+        jar="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="044ef5dd4348bf4cd2989ee2636ab65ec2d6f09a">
+        <dex dex="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d74cae0943c7d6f780460faaf52e01dd2b553f8c/classes.dex" />
+    </item>
+    <item
+        jar="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/amatanat/Documents/androidCoursera/smallProjects/HelloAndroidwithMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_5c1aa4d6814c049429dfda825690e03afe0f953d/classes.dex" />
+    </item>
+
+</items>
