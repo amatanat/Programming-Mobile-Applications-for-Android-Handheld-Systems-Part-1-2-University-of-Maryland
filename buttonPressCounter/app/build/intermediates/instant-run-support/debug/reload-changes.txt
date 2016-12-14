@@ -1,0 +1,3 @@
+CHANGED,/home/amatanat/Documents/androidCoursera/buttonPressCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/amatanat/Documents/androidCoursera/buttonPressCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/practicetime/com/example/buttonpresscounter/R$id$override.class
+CHANGED,/home/amatanat/Documents/androidCoursera/buttonPressCounter/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/practicetime/com/example/buttonpresscounter/MainActivity$override.class
