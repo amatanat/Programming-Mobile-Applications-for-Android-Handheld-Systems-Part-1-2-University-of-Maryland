@@ -9,22 +9,55 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/x_axis"
-        android:textSize="19dp"
-        android:layout_gravity ="center_vertical|center_horizontal"/>
+        android:textSize="19sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/y_axis"
-        android:textSize="19dp"
-        android:layout_gravity="center_vertical|center_horizontal"/>
+        android:textSize="19sp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/z_axis"
-        android:textSize="19dp"
-        android:layout_gravity="center_vertical|center_horizontal"/>
+        android:textSize="19sp"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="19sp"
+        android:id="@+id/low_pass_x"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/low_pass_y"
+        android:textSize="19sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/low_pass_z"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/high_pass_x"
+        android:textSize="19sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/high_pass_y"
+        android:textSize="19sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/high_pass_z"
+        android:textSize="19sp"/>
 
 </LinearLayout>
