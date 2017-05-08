@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_right.png",
+        "source": "/home/amatanat/androidCoursera/GeoQuiz/app/src/main/res/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/amatanat/androidCoursera/GeoQuiz/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_left.png",
+        "source": "/home/amatanat/androidCoursera/GeoQuiz/app/src/main/res/drawable-xhdpi/arrow_left.png"
+    }
+]

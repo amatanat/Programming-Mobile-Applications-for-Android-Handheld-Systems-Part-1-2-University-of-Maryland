@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-20:12
-	xmlns:android
-		ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:2:11-69
 	package
 		ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
@@ -10,22 +8,21 @@ ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.x
 	android:versionName
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
-	android:supportsRtl
-		ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:9:9-35
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/amatanat/.android/build-cache/56ee4ffab44056d53619f48d2fb340987e516ac6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/amatanat/.android/build-cache/3e500534e8afc1245c34da68783dff77d0163698/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/amatanat/.android/build-cache/ea18238daf888a542ce1fb14c1b3cc4bf160fa66/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/amatanat/.android/build-cache/f480fd2282ac4d8592b1f621665387f08caacf16/output/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:9:9-35
 	android:allowBackup
 		ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
@@ -48,18 +45,15 @@ ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.x
 		ADDED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/amatanat/.android/build-cache/56ee4ffab44056d53619f48d2fb340987e516ac6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/amatanat/.android/build-cache/3e500534e8afc1245c34da68783dff77d0163698/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/amatanat/.android/build-cache/ea18238daf888a542ce1fb14c1b3cc4bf160fa66/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/amatanat/.android/build-cache/f480fd2282ac4d8592b1f621665387f08caacf16/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/amatanat/.android/build-cache/56ee4ffab44056d53619f48d2fb340987e516ac6/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
 		INJECTED from /home/amatanat/androidCoursera/GeoQuiz/app/src/main/AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75

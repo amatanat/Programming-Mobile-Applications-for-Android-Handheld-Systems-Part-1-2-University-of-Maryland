@@ -1,0 +1,19 @@
+#Mon May 08 09:31:34 CEST 2017
+renamed.5=classes2.dex
+renamed.4=classes.dex
+renamed.3=classes5.dex
+renamed.2=classes4.dex
+renamed.1=classes6.dex
+renamed.0=classes3.dex
+base.5=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b7ef2ec4a5ace23269b2ae390c31a84a468ca204
+base.4=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_160b97f3db354740bbec1900809e5a9367015c4f
+base.3=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a8cf15c229798fa913a88a1f2d75f34e0256c1e
+base.2=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd4ba8991f9d0b89d42462a5b068967448dd24a3
+base.1=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aed45e901bef951662cab35f45594cce7aebbeff
+base.0=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_62208ddb445ae2593aff3b5ec9e0f397672cd885
+file.5=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b7ef2ec4a5ace23269b2ae390c31a84a468ca204/classes.dex
+file.4=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_160b97f3db354740bbec1900809e5a9367015c4f/classes.dex
+file.3=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a8cf15c229798fa913a88a1f2d75f34e0256c1e/classes.dex
+file.2=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd4ba8991f9d0b89d42462a5b068967448dd24a3/classes.dex
+file.1=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aed45e901bef951662cab35f45594cce7aebbeff/classes.dex
+file.0=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_62208ddb445ae2593aff3b5ec9e0f397672cd885/classes.dex

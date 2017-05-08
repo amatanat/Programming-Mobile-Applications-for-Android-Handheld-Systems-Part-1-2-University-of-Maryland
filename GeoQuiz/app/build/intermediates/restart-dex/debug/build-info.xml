@@ -2,36 +2,101 @@
 <instant-run
     abi="x86"
     api-level="22"
+    build-mode="COLD"
     density="xhdpi"
-    format="7"
-    timestamp="189479071845346" >
+    format="10"
+    plugin-version="2.3.0"
+    timestamp="1494233446908"
+    token="1918374027638573448"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="301" />
+        duration="65" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="137" />
+        duration="13" />
     <task
         name="verifier"
         duration="1" />
 
     <artifact
-        location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
+        location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/amatanat/androidCoursera/GeoQuiz/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
-    <build timestamp="189310581534865" >
+    <build
+        build-mode="FULL"
+        timestamp="1494228682708"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
         <artifact
             location="/home/amatanat/androidCoursera/GeoQuiz/app/build/outputs/apk/app-debug.apk"
-            type="MAIN" />
+            type="SPLIT_MAIN" />
     </build>
-    <build timestamp="189479071845346" >
+    <build
+        build-mode="COLD"
+        timestamp="1494230720409"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1494233414671"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1494233446908"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/amatanat/androidCoursera/GeoQuiz/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

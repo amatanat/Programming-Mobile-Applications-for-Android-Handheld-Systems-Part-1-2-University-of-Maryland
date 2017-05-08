@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0019f1b6e675ee7d53134e2c678b699c51cc1cc4">
+        <dex dex="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b7336b6803e6d02f5524aeaa3200fe8abdb8b69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_85e243c8c44bc8ea976a62bdb58113da26e3e599/classes.dex" />
+    </item>
+
+</items>

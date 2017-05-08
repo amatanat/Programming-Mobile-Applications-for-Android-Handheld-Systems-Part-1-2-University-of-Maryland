@@ -1,0 +1,7 @@
+#Mon May 08 10:37:12 CEST 2017
+base.0=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_85e243c8c44bc8ea976a62bdb58113da26e3e599
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b7336b6803e6d02f5524aeaa3200fe8abdb8b69/classes.dex
+base.1=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b7336b6803e6d02f5524aeaa3200fe8abdb8b69
+file.0=/home/amatanat/androidCoursera/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_85e243c8c44bc8ea976a62bdb58113da26e3e599/classes.dex

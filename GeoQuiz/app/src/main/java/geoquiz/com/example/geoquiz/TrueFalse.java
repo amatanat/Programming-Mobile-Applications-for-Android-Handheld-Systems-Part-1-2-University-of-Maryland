@@ -2,6 +2,7 @@ package geoquiz.com.example.geoquiz;
 
 
 public class TrueFalse {
+
     private int mQuestion;
     private boolean mTrueQuestion;
 
@@ -14,15 +15,8 @@ public class TrueFalse {
         return mQuestion;
     }
 
-    public void setQuestion(int question) {
-        mQuestion = question;
-    }
-
     public boolean isTrueQuestion() {
         return mTrueQuestion;
     }
 
-    public void setTrueQuestion(boolean trueQuestion) {
-        mTrueQuestion = trueQuestion;
-    }
 }
